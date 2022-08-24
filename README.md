@@ -20,3 +20,7 @@ Simple project which goal was to render a fire from point sprites.
 - Fire rendered from point sprite,
 - Ground rendered from multiplied *jpg* texture,
 - Background generated using *Skybox* technique with Cubemap textures
+
+
+#### Visal presentation
+![FIRE](/ReadMeData/fire.gif)
